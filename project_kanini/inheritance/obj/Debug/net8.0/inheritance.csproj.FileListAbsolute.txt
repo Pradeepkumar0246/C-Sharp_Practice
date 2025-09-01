@@ -1,0 +1,14 @@
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\bin\Debug\net8.0\inheritance.exe
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\bin\Debug\net8.0\inheritance.deps.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\bin\Debug\net8.0\inheritance.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\bin\Debug\net8.0\inheritance.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\obj\Debug\net8.0\inheritance.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\obj\Debug\net8.0\inheritance.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\inheritance\obj\Debug\net8.0\ref\inheritance.dll

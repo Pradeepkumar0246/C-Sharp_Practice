@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apicodefirst\\apicodefirst\\interface\\iauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|solutionrelative:apicodefirst\\interface\\iauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apicodefirst\\apicodefirst\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|solutionrelative:apicodefirst\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apicodefirst\\apicodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|solutionrelative:apicodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apicodefirst\\apicodefirst\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|solutionrelative:apicodefirst\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apicodefirst\\apicodefirst\\interface\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|solutionrelative:apicodefirst\\interface\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apicodefirst\\apicodefirst\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|solutionrelative:apicodefirst\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apicodefirst\\apicodefirst\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|solutionrelative:apicodefirst\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apicodefirst\\apicodefirst\\service\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|solutionrelative:apicodefirst\\service\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apicodefirst\\apicodefirst\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|solutionrelative:apicodefirst\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apicodefirst\\apicodefirst\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|solutionrelative:apicodefirst\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apicodefirst\\apicodefirst\\migrations\\20250812074046_author_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|solutionrelative:apicodefirst\\migrations\\20250812074046_author_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apicodefirst\\apicodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A659CE0F-7E57-4255-B2AB-3B58AA9FEEB3}|APICodeFirst\\APICodeFirst.csproj|solutionrelative:apicodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "APICodeFirst\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Controllers\\BookController.cs",
+              "RelativeToolTip": "APICodeFirst\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:08:21.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "APICodeFirst\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "APICodeFirst\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:07:54.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "APICodeFirst\\Service\\BookService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Service\\BookService.cs",
+              "RelativeToolTip": "APICodeFirst\\Service\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:51:23.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Service\\AuthorService.cs",
+              "RelativeDocumentMoniker": "APICodeFirst\\Service\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Service\\AuthorService.cs",
+              "RelativeToolTip": "APICodeFirst\\Service\\AuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:51:05.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Interface\\IBook.cs",
+              "RelativeDocumentMoniker": "APICodeFirst\\Interface\\IBook.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Interface\\IBook.cs",
+              "RelativeToolTip": "APICodeFirst\\Interface\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:46:13.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Interface\\IAuthor.cs",
+              "RelativeDocumentMoniker": "APICodeFirst\\Interface\\IAuthor.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Interface\\IAuthor.cs",
+              "RelativeToolTip": "APICodeFirst\\Interface\\IAuthor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:45:36.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "APICodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Program.cs",
+              "RelativeToolTip": "APICodeFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:17:35.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "APICodeFirst\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Models\\Book.cs",
+              "RelativeToolTip": "APICodeFirst\\Models\\Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:15:05.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250812074046_Author_Book.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Migrations\\20250812074046_Author_Book.cs",
+              "RelativeDocumentMoniker": "APICodeFirst\\Migrations\\20250812074046_Author_Book.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Migrations\\20250812074046_Author_Book.cs",
+              "RelativeToolTip": "APICodeFirst\\Migrations\\20250812074046_Author_Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:40:46.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APICodeFirst\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "APICodeFirst\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:15:32.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "APICodeFirst\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\Models\\Author.cs",
+              "RelativeToolTip": "APICodeFirst\\Models\\Author.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:14:54.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "APICodeFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APICodeFirst\\APICodeFirst\\appsettings.json",
+              "RelativeToolTip": "APICodeFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T07:22:11.383Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

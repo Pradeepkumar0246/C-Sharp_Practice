@@ -1,0 +1,14 @@
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\bin\Debug\net8.0\C#_practice.exe
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\bin\Debug\net8.0\C#_practice.deps.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\bin\Debug\net8.0\C#_practice.runtimeconfig.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\bin\Debug\net8.0\C#_practice.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\bin\Debug\net8.0\C#_practice.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\obj\Debug\net8.0\C#_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\obj\Debug\net8.0\C#_practice.AssemblyInfoInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\obj\Debug\net8.0\C#_practice.AssemblyInfo.cs
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\obj\Debug\net8.0\C#_practice.csproj.CoreCompileInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\obj\Debug\net8.0\C#_practice.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\obj\Debug\net8.0\refint\C#_practice.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\obj\Debug\net8.0\C#_practice.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\obj\Debug\net8.0\C#_practice.genruntimeconfig.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\C#_practice\C#_practice\obj\Debug\net8.0\ref\C#_practice.dll

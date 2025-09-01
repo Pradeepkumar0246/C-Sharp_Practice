@@ -1,0 +1,695 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\admin\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\admin\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\admin\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\admin\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\admin\\categories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\admin\\categories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\admin\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\admin\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\ecommerce\\ecommerce\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\ecommerce\\ecommerce\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\ecommerce\\ecommerce\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\ecommerce\\ecommerce\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\ecommerce\\ecommerce\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\productdetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\productdetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\cart.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\cart.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\checkout.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\checkout.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\admin\\orders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\admin\\orders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\admin\\orders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\admin\\orders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\register.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\register.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\myorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\myorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\admin\\orders.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\admin\\orders.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\admin\\products.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\admin\\products.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\admin\\categories.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\admin\\categories.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\myorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\myorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\myorders.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\myorders.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79410279-BD5D-4488-9BF4-20C0CEB6EA15}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Default.aspx.cs",
+              "RelativeToolTip": "ecommerce\\Default.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:38:55.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Products.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\Admin\\Products.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Products.aspx",
+              "RelativeToolTip": "ecommerce\\Admin\\Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T06:01:07.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Products.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Admin\\Products.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Products.aspx.cs",
+              "RelativeToolTip": "ecommerce\\Admin\\Products.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv0AAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:01:24.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categories.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Categories.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Admin\\Categories.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Categories.aspx.cs",
+              "RelativeToolTip": "ecommerce\\Admin\\Categories.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwv0AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:02:11.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Home.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\Home.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Home.aspx",
+              "RelativeToolTip": "ecommerce\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T05:50:51.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categories.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Categories.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\Admin\\Categories.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Categories.aspx",
+              "RelativeToolTip": "ecommerce\\Admin\\Categories.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T06:01:52.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\AdminLogin.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\AdminLogin.aspx",
+              "RelativeToolTip": "ecommerce\\AdminLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T05:49:17.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Cart.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\Cart.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Cart.aspx",
+              "RelativeToolTip": "ecommerce\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T05:53:35.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\style.css",
+              "RelativeDocumentMoniker": "ecommerce\\style.css",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\style.css",
+              "RelativeToolTip": "ecommerce\\style.css",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAqwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-17T05:53:39.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Default.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\Default.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Default.aspx",
+              "RelativeToolTip": "ecommerce\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-17T05:49:53.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Cart.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Cart.aspx.cs",
+              "RelativeToolTip": "ecommerce\\Cart.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:53:53.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Site.Master",
+              "RelativeDocumentMoniker": "ecommerce\\Site.Master",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Site.Master",
+              "RelativeToolTip": "ecommerce\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-17T05:23:48.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Register.aspx.cs",
+              "RelativeToolTip": "ecommerce\\Register.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:47:39.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Register.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\Register.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Register.aspx",
+              "RelativeToolTip": "ecommerce\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T05:47:07.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Web.config",
+              "RelativeDocumentMoniker": "ecommerce\\Web.config",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Web.config",
+              "RelativeToolTip": "ecommerce\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-15T06:08:44.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cart.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Cart.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Cart.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Cart.aspx.designer.cs",
+              "RelativeToolTip": "ecommerce\\Cart.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:32:17.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDetails.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\ProductDetails.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ecommerce\\ProductDetails.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\ProductDetails.aspx.designer.cs",
+              "RelativeToolTip": "ecommerce\\ProductDetails.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:54:48.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\ProductDetails.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\ProductDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\ProductDetails.aspx.cs",
+              "RelativeToolTip": "ecommerce\\ProductDetails.aspx.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:53:02.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\ProductDetails.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\ProductDetails.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\ProductDetails.aspx",
+              "RelativeToolTip": "ecommerce\\ProductDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T05:52:25.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Checkout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Checkout.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Checkout.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Checkout.aspx.cs",
+              "RelativeToolTip": "ecommerce\\Checkout.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:54:48.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Checkout.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Checkout.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\Checkout.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Checkout.aspx",
+              "RelativeToolTip": "ecommerce\\Checkout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T05:54:29.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\Admin\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "ecommerce\\Admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T06:00:23.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Home.aspx.cs",
+              "RelativeToolTip": "ecommerce\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:51:46.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Login.aspx.cs",
+              "RelativeToolTip": "ecommerce\\Login.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:48:42.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Login.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\Login.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Login.aspx",
+              "RelativeToolTip": "ecommerce\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T05:48:22.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Admin\\Dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Dashboard.aspx.cs",
+              "RelativeToolTip": "ecommerce\\Admin\\Dashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:42:06.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Checkout.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Checkout.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Checkout.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Checkout.aspx.designer.cs",
+              "RelativeToolTip": "ecommerce\\Checkout.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:44:24.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Home.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Home.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Home.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Home.aspx.designer.cs",
+              "RelativeToolTip": "ecommerce\\Home.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:24:49.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Orders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Orders.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Admin\\Orders.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Orders.aspx.cs",
+              "RelativeToolTip": "ecommerce\\Admin\\Orders.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:03:04.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\AdminLogin.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\AdminLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\AdminLogin.aspx.cs",
+              "RelativeToolTip": "ecommerce\\AdminLogin.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:49:55.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Orders.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Orders.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\Admin\\Orders.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Orders.aspx",
+              "RelativeToolTip": "ecommerce\\Admin\\Orders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T06:02:46.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Register.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Register.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Register.aspx.designer.cs",
+              "RelativeToolTip": "ecommerce\\Register.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:28:30.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MyOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\MyOrders.aspx",
+              "RelativeDocumentMoniker": "ecommerce\\MyOrders.aspx",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\MyOrders.aspx",
+              "RelativeToolTip": "ecommerce\\MyOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T05:55:23.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Login.aspx.designer.cs",
+              "RelativeToolTip": "ecommerce\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:17:14.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Orders.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Orders.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Admin\\Orders.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Orders.aspx.designer.cs",
+              "RelativeToolTip": "ecommerce\\Admin\\Orders.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:41:08.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Products.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Products.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Admin\\Products.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Products.aspx.designer.cs",
+              "RelativeToolTip": "ecommerce\\Admin\\Products.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:40:23.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Categories.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Categories.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Admin\\Categories.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Admin\\Categories.aspx.designer.cs",
+              "RelativeToolTip": "ecommerce\\Admin\\Categories.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:49:29.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MyOrders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\MyOrders.aspx.cs",
+              "RelativeDocumentMoniker": "ecommerce\\MyOrders.aspx.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\MyOrders.aspx.cs",
+              "RelativeToolTip": "ecommerce\\MyOrders.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:55:48.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MyOrders.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\MyOrders.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ecommerce\\MyOrders.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\MyOrders.aspx.designer.cs",
+              "RelativeToolTip": "ecommerce\\MyOrders.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:37:16.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Helpers\\DbHelper.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Helpers\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\ecommerce\\ecommerce\\Helpers\\DbHelper.cs",
+              "RelativeToolTip": "ecommerce\\Helpers\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:44:06.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

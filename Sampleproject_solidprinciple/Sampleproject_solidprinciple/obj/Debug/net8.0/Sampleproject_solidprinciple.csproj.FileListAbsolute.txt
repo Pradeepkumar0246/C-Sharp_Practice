@@ -1,0 +1,14 @@
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\bin\Debug\net8.0\Sampleproject_solidprinciple.exe
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\bin\Debug\net8.0\Sampleproject_solidprinciple.deps.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\bin\Debug\net8.0\Sampleproject_solidprinciple.runtimeconfig.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\bin\Debug\net8.0\Sampleproject_solidprinciple.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\bin\Debug\net8.0\Sampleproject_solidprinciple.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\obj\Debug\net8.0\Sampleproject_solidprinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\obj\Debug\net8.0\Sampleproject_solidprinciple.AssemblyInfoInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\obj\Debug\net8.0\Sampleproject_solidprinciple.AssemblyInfo.cs
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\obj\Debug\net8.0\Sampleproject_solidprinciple.csproj.CoreCompileInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\obj\Debug\net8.0\Sampleproject_solidprinciple.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\obj\Debug\net8.0\refint\Sampleproject_solidprinciple.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\obj\Debug\net8.0\Sampleproject_solidprinciple.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\obj\Debug\net8.0\Sampleproject_solidprinciple.genruntimeconfig.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\Sampleproject_solidprinciple\Sampleproject_solidprinciple\obj\Debug\net8.0\ref\Sampleproject_solidprinciple.dll

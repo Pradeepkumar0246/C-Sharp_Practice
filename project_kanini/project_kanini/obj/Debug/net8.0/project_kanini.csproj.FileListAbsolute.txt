@@ -1,0 +1,14 @@
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\bin\Debug\net8.0\project_kanini.exe
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\bin\Debug\net8.0\project_kanini.deps.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\bin\Debug\net8.0\project_kanini.runtimeconfig.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\bin\Debug\net8.0\project_kanini.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\bin\Debug\net8.0\project_kanini.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\obj\Debug\net8.0\project_kanini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\obj\Debug\net8.0\project_kanini.AssemblyInfoInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\obj\Debug\net8.0\project_kanini.AssemblyInfo.cs
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\obj\Debug\net8.0\project_kanini.csproj.CoreCompileInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\obj\Debug\net8.0\project_kanini.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\obj\Debug\net8.0\refint\project_kanini.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\obj\Debug\net8.0\project_kanini.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\obj\Debug\net8.0\project_kanini.genruntimeconfig.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\project_kanini\obj\Debug\net8.0\ref\project_kanini.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uYZHQb8rGL0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\project_kanini\\day8_serialization\\day8_serialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

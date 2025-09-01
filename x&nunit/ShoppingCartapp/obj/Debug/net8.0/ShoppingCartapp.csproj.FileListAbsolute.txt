@@ -1,0 +1,11 @@
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\ShoppingCartapp\bin\Debug\net8.0\ShoppingCartapp.deps.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\ShoppingCartapp\bin\Debug\net8.0\ShoppingCartapp.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\ShoppingCartapp\bin\Debug\net8.0\ShoppingCartapp.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\ShoppingCartapp\obj\Debug\net8.0\ShoppingCartapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\ShoppingCartapp\obj\Debug\net8.0\ShoppingCartapp.AssemblyInfoInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\ShoppingCartapp\obj\Debug\net8.0\ShoppingCartapp.AssemblyInfo.cs
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\ShoppingCartapp\obj\Debug\net8.0\ShoppingCartapp.csproj.CoreCompileInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\ShoppingCartapp\obj\Debug\net8.0\ShoppingCartapp.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\ShoppingCartapp\obj\Debug\net8.0\refint\ShoppingCartapp.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\ShoppingCartapp\obj\Debug\net8.0\ShoppingCartapp.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\ShoppingCartapp\obj\Debug\net8.0\ref\ShoppingCartapp.dll

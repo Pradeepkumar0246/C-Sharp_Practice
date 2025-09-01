@@ -1,0 +1,6 @@
+@ManytoManyBookAuthor_HostAddress = http://localhost:5147
+
+GET {{ManytoManyBookAuthor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

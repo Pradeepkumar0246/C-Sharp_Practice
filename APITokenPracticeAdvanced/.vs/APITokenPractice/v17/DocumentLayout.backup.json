@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\migrations\\20250820094037_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\migrations\\20250820094037_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\migrations\\20250819124702_bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\migrations\\20250819124702_bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\apitokenpracticeadvanced\\apitokenpractice\\models\\bookauthorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D85B5-5E9E-4F0A-AC6C-57683D6E6C70}|APITokenPractice\\APITokenPractice.csproj|solutionrelative:apitokenpractice\\models\\bookauthorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "APITokenPractice\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAgwJkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:56:07.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Models\\Book.cs",
+              "RelativeToolTip": "APITokenPractice\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:35:33.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Services\\IBookService.cs",
+              "RelativeToolTip": "APITokenPractice\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:21:27.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Services\\IUserService.cs",
+              "RelativeToolTip": "APITokenPractice\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:21:57.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Services\\BookService.cs",
+              "RelativeToolTip": "APITokenPractice\\Services\\BookService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:21:43.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "APITokenPractice\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:19:39.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "APITokenPractice\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:20:41.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Models\\Users.cs",
+              "RelativeToolTip": "APITokenPractice\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:35:04.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250820094037_init.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Migrations\\20250820094037_init.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Migrations\\20250820094037_init.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Migrations\\20250820094037_init.cs",
+              "RelativeToolTip": "APITokenPractice\\Migrations\\20250820094037_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:40:37.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "APITokenPractice\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwBoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:57:27.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Program.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Program.cs",
+              "RelativeToolTip": "APITokenPractice\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:39:44.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\appsettings.json",
+              "RelativeDocumentMoniker": "APITokenPractice\\appsettings.json",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\appsettings.json",
+              "RelativeToolTip": "APITokenPractice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T12:38:53.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Services\\UserService.cs",
+              "RelativeToolTip": "APITokenPractice\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:22:10.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "APITokenPractice\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:58:11.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "APITokenPractice\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:58:29.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "APITokenPractice\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:02:03.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "APITokenPractice\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:20:53.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Repositories\\Repository.cs",
+              "RelativeToolTip": "APITokenPractice\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:20:30.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "APITokenPractice\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:20:00.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "APITokenPractice\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:19:21.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "APITokenPractice\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:56:48.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookAuthorContext.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Models\\BookAuthorContext.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Models\\BookAuthorContext.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Models\\BookAuthorContext.cs",
+              "RelativeToolTip": "APITokenPractice\\Models\\BookAuthorContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:41:42.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250819124702_BookAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Migrations\\20250819124702_BookAuthor.cs",
+              "RelativeDocumentMoniker": "APITokenPractice\\Migrations\\20250819124702_BookAuthor.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\APITokenPracticeAdvanced\\APITokenPractice\\Migrations\\20250819124702_BookAuthor.cs",
+              "RelativeToolTip": "APITokenPractice\\Migrations\\20250819124702_BookAuthor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:47:02.411Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

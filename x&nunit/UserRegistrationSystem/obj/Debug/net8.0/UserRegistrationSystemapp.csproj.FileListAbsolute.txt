@@ -1,0 +1,11 @@
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\UserRegistrationSystem\bin\Debug\net8.0\UserRegistrationSystemapp.deps.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\UserRegistrationSystem\bin\Debug\net8.0\UserRegistrationSystemapp.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\UserRegistrationSystem\bin\Debug\net8.0\UserRegistrationSystemapp.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\UserRegistrationSystem\obj\Debug\net8.0\UserRegistrationSystemapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\UserRegistrationSystem\obj\Debug\net8.0\UserRegistrationSystemapp.AssemblyInfoInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\UserRegistrationSystem\obj\Debug\net8.0\UserRegistrationSystemapp.AssemblyInfo.cs
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\UserRegistrationSystem\obj\Debug\net8.0\UserRegistrationSystemapp.csproj.CoreCompileInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\UserRegistrationSystem\obj\Debug\net8.0\UserRegistrationSystemapp.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\UserRegistrationSystem\obj\Debug\net8.0\refint\UserRegistrationSystemapp.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\UserRegistrationSystem\obj\Debug\net8.0\UserRegistrationSystemapp.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\UserRegistrationSystem\obj\Debug\net8.0\ref\UserRegistrationSystemapp.dll

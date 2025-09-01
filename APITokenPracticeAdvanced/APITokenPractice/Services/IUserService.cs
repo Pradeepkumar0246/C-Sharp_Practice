@@ -1,0 +1,14 @@
+﻿using APITokenPractice.Models;
+
+namespace APITokenPractice.Services
+{
+    public interface IUserService
+    {
+        Task<IEnumerable<Users>> GetAllUsersAsync();
+        Task<Users> GetUserByIdAsync(int id);
+        Task<Users> GetUserByUsernameAsync(string username);
+        Task<Users> CreateUserAsync(Users user);
+        Task<Users> UpdateUserAsync(Users user);
+        Task<bool> DeleteUserAsync(int id);
+    }
+}

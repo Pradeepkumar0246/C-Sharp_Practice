@@ -1,0 +1,11 @@
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\x&nunit\bin\Debug\net8.0\Calcu.deps.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\x&nunit\bin\Debug\net8.0\Calcu.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\x&nunit\bin\Debug\net8.0\Calcu.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\x&nunit\obj\Debug\net8.0\Calcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\x&nunit\obj\Debug\net8.0\Calcu.AssemblyInfoInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\x&nunit\obj\Debug\net8.0\Calcu.AssemblyInfo.cs
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\x&nunit\obj\Debug\net8.0\Calcu.csproj.CoreCompileInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\x&nunit\obj\Debug\net8.0\Calcu.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\x&nunit\obj\Debug\net8.0\refint\Calcu.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\x&nunit\obj\Debug\net8.0\Calcu.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\x&nunit\x&nunit\obj\Debug\net8.0\ref\Calcu.dll

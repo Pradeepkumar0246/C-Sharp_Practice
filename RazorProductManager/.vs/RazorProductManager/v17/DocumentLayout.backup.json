@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\razorproductmanager\\razorproductmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|solutionrelative:razorproductmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\razorproductmanager\\razorproductmanager\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|solutionrelative:razorproductmanager\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\razorproductmanager\\razorproductmanager\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|solutionrelative:razorproductmanager\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\razorproductmanager\\razorproductmanager\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|solutionrelative:razorproductmanager\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\razorproductmanager\\razorproductmanager\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|solutionrelative:razorproductmanager\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\razorproductmanager\\razorproductmanager\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|solutionrelative:razorproductmanager\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\razorproductmanager\\razorproductmanager\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|solutionrelative:razorproductmanager\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\razorproductmanager\\razorproductmanager\\data\\inmemoryproductstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|solutionrelative:razorproductmanager\\data\\inmemoryproductstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\razorproductmanager\\razorproductmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|solutionrelative:razorproductmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\razorproductmanager\\razorproductmanager\\razorproductmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|solutionrelative:razorproductmanager\\razorproductmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\razorproductmanager\\razorproductmanager\\pages\\hello.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|solutionrelative:razorproductmanager\\pages\\hello.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\razorproductmanager\\razorproductmanager\\pages\\hello.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1958ED2D-278D-4551-A2F0-BF359D4CB416}|RazorProductManager\\RazorProductManager.csproj|solutionrelative:razorproductmanager\\pages\\hello.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorProductManager\\Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorProductManager\\Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:29:16.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Pages\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorProductManager\\Pages\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Pages\\Products\\Index.cshtml",
+              "RelativeToolTip": "RazorProductManager\\Pages\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T05:29:00.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InMemoryProductStore.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Data\\InMemoryProductStore.cs",
+              "RelativeDocumentMoniker": "RazorProductManager\\Data\\InMemoryProductStore.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Data\\InMemoryProductStore.cs",
+              "RelativeToolTip": "RazorProductManager\\Data\\InMemoryProductStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:25:58.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "RazorProductManager\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "RazorProductManager\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:15:52.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Program.cs",
+              "RelativeDocumentMoniker": "RazorProductManager\\Program.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Program.cs*",
+              "RelativeToolTip": "RazorProductManager\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T05:21:32.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RazorProductManager\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Models\\Product.cs",
+              "RelativeToolTip": "RazorProductManager\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:12:53.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "RazorProductManager\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "RazorProductManager\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:14:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "RazorProductManager\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "RazorProductManager\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:14:41.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "RazorProductManager\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "RazorProductManager\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:16:24.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RazorProductManager",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\RazorProductManager.csproj",
+              "RelativeDocumentMoniker": "RazorProductManager\\RazorProductManager.csproj",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\RazorProductManager.csproj",
+              "RelativeToolTip": "RazorProductManager\\RazorProductManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-01T05:09:52.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hello.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Pages\\Hello.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorProductManager\\Pages\\Hello.cshtml.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Pages\\Hello.cshtml.cs",
+              "RelativeToolTip": "RazorProductManager\\Pages\\Hello.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T05:31:56.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hello.cshtml",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Pages\\Hello.cshtml",
+              "RelativeDocumentMoniker": "RazorProductManager\\Pages\\Hello.cshtml",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\RazorProductManager\\RazorProductManager\\Pages\\Hello.cshtml",
+              "RelativeToolTip": "RazorProductManager\\Pages\\Hello.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T05:31:45.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

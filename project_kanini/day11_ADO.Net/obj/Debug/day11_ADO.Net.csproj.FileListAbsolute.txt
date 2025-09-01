@@ -1,0 +1,11 @@
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day11_ADO.Net\bin\Debug\day11_ADO.Net.exe.config
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day11_ADO.Net\bin\Debug\day11_ADO.Net.exe
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day11_ADO.Net\bin\Debug\day11_ADO.Net.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day11_ADO.Net\obj\Debug\day11_ADO.Net.csproj.AssemblyReference.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day11_ADO.Net\obj\Debug\day11_ADO.Net.Properties.Resources.resources
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day11_ADO.Net\obj\Debug\day11_ADO.Net.csproj.GenerateResource.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day11_ADO.Net\obj\Debug\day11_ADO.Net.csproj.CoreCompileInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day11_ADO.Net\obj\Debug\day11_ADO.Net.exe
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day11_ADO.Net\obj\Debug\day11_ADO.Net.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day11_ADO.Net\obj\Debug\day11_ADO.Net.exe.config
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day11_ADO.Net\obj\Debug\ProductManagerApp.Form1.resources

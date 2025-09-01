@@ -1,0 +1,14 @@
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\obj\Debug\net8.0\day2_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\obj\Debug\net8.0\day2_c#.AssemblyInfoInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\obj\Debug\net8.0\day2_c#.AssemblyInfo.cs
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\obj\Debug\net8.0\day2_c#.csproj.CoreCompileInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\bin\Debug\net8.0\day2_c#.exe
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\bin\Debug\net8.0\day2_c#.deps.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\bin\Debug\net8.0\day2_c#.runtimeconfig.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\bin\Debug\net8.0\day2_c#.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\bin\Debug\net8.0\day2_c#.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\obj\Debug\net8.0\day2_c#.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\obj\Debug\net8.0\refint\day2_c#.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\obj\Debug\net8.0\day2_c#.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\obj\Debug\net8.0\day2_c#.genruntimeconfig.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day2_c#\obj\Debug\net8.0\ref\day2_c#.dll

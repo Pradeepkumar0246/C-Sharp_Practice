@@ -1,0 +1,17 @@
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\bin\Debug\net8.0\day8_serialization.exe
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\bin\Debug\net8.0\day8_serialization.deps.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\bin\Debug\net8.0\day8_serialization.runtimeconfig.json
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\bin\Debug\net8.0\day8_serialization.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\bin\Debug\net8.0\day8_serialization.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\obj\Debug\net8.0\day8_serialization.csproj.AssemblyReference.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\obj\Debug\net8.0\day8_serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\obj\Debug\net8.0\day8_serialization.AssemblyInfoInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\obj\Debug\net8.0\day8_serialization.AssemblyInfo.cs
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\obj\Debug\net8.0\day8_serialization.csproj.CoreCompileInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\obj\Debug\net8.0\day8_ser.8797F50C.Up2Date
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\obj\Debug\net8.0\day8_serialization.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\obj\Debug\net8.0\refint\day8_serialization.dll
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\obj\Debug\net8.0\day8_serialization.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\obj\Debug\net8.0\day8_serialization.genruntimeconfig.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\project_kanini\day8_serialization\obj\Debug\net8.0\ref\day8_serialization.dll

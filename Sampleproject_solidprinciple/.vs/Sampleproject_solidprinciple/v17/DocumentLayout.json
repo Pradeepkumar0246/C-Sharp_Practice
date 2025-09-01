@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\sampleproject_solidprinciple\\sampleproject_solidprinciple\\services\\onlineorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|solutionrelative:sampleproject_solidprinciple\\services\\onlineorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\sampleproject_solidprinciple\\sampleproject_solidprinciple\\services\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|solutionrelative:sampleproject_solidprinciple\\services\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\sampleproject_solidprinciple\\sampleproject_solidprinciple\\services\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|solutionrelative:sampleproject_solidprinciple\\services\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\sampleproject_solidprinciple\\sampleproject_solidprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|solutionrelative:sampleproject_solidprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\sampleproject_solidprinciple\\sampleproject_solidprinciple\\services\\storeorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|solutionrelative:sampleproject_solidprinciple\\services\\storeorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\sampleproject_solidprinciple\\sampleproject_solidprinciple\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|solutionrelative:sampleproject_solidprinciple\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\sampleproject_solidprinciple\\sampleproject_solidprinciple\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|solutionrelative:sampleproject_solidprinciple\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\sampleproject_solidprinciple\\sampleproject_solidprinciple\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|solutionrelative:sampleproject_solidprinciple\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\sampleproject_solidprinciple\\sampleproject_solidprinciple\\interfaces\\iordertypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|solutionrelative:sampleproject_solidprinciple\\interfaces\\iordertypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\sampleproject_solidprinciple\\sampleproject_solidprinciple\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFBAE3E-A9F9-4C3C-B198-11416E98C3BE}|Sampleproject_solidprinciple\\Sampleproject_solidprinciple.csproj|solutionrelative:sampleproject_solidprinciple\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlineOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Services\\OnlineOrderHandler.cs",
+              "RelativeDocumentMoniker": "Sampleproject_solidprinciple\\Services\\OnlineOrderHandler.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Services\\OnlineOrderHandler.cs",
+              "RelativeToolTip": "Sampleproject_solidprinciple\\Services\\OnlineOrderHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:18:20.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Sampleproject_solidprinciple\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Sampleproject_solidprinciple\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:17:47.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Services\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "Sampleproject_solidprinciple\\Services\\OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Services\\OrderProcessor.cs",
+              "RelativeToolTip": "Sampleproject_solidprinciple\\Services\\OrderProcessor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:18:06.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoreOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Services\\StoreOrderHandler.cs",
+              "RelativeDocumentMoniker": "Sampleproject_solidprinciple\\Services\\StoreOrderHandler.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Services\\StoreOrderHandler.cs",
+              "RelativeToolTip": "Sampleproject_solidprinciple\\Services\\StoreOrderHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:18:35.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Services\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Sampleproject_solidprinciple\\Services\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Services\\OrderRepository.cs",
+              "RelativeToolTip": "Sampleproject_solidprinciple\\Services\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:18:47.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Sampleproject_solidprinciple\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Services\\EmailService.cs",
+              "RelativeToolTip": "Sampleproject_solidprinciple\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:19:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Program.cs",
+              "RelativeDocumentMoniker": "Sampleproject_solidprinciple\\Program.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Program.cs",
+              "RelativeToolTip": "Sampleproject_solidprinciple\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:54:18.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Sampleproject_solidprinciple\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Sampleproject_solidprinciple\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:17:31.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderTypeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Interfaces\\IOrderTypeHandler.cs",
+              "RelativeDocumentMoniker": "Sampleproject_solidprinciple\\Interfaces\\IOrderTypeHandler.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Interfaces\\IOrderTypeHandler.cs",
+              "RelativeToolTip": "Sampleproject_solidprinciple\\Interfaces\\IOrderTypeHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:17:14.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Sampleproject_solidprinciple\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\Sampleproject_solidprinciple\\Sampleproject_solidprinciple\\Models\\Order.cs",
+              "RelativeToolTip": "Sampleproject_solidprinciple\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:16:53.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

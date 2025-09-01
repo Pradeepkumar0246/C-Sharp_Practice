@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4C4282-ECF3-4002-8873-AB482E65598B}|nunit2_test\\nunit2_test.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\nunit2_test\\n_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4C4282-ECF3-4002-8873-AB482E65598B}|nunit2_test\\nunit2_test.csproj|solutionrelative:nunit2_test\\n_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DD34D5-7C11-4058-99DF-A2A8F7071D78}|Xunit\\xunit2_test.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\xunit\\x_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DD34D5-7C11-4058-99DF-A2A8F7071D78}|Xunit\\xunit2_test.csproj|solutionrelative:xunit\\x_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10143A68-EC70-4B58-8E8F-5FEA3E1C1BC2}|ShoppingCartapp\\ShoppingCartapp.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\shoppingcartapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10143A68-EC70-4B58-8E8F-5FEA3E1C1BC2}|ShoppingCartapp\\ShoppingCartapp.csproj|solutionrelative:shoppingcartapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4C4282-ECF3-4002-8873-AB482E65598B}|nunit2_test\\nunit2_test.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\nunit2_test\\nunit2_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C4C4282-ECF3-4002-8873-AB482E65598B}|nunit2_test\\nunit2_test.csproj|solutionrelative:nunit2_test\\nunit2_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DD34D5-7C11-4058-99DF-A2A8F7071D78}|Xunit\\xunit2_test.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\xunit\\xunit2_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11DD34D5-7C11-4058-99DF-A2A8F7071D78}|Xunit\\xunit2_test.csproj|solutionrelative:xunit\\xunit2_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6198F36E-F06B-4FC3-A414-848E3F70CDE1}|UserRegistrationSystem\\UserRegistrationSystemapp.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\userregistrationsystem\\userregistrationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6198F36E-F06B-4FC3-A414-848E3F70CDE1}|UserRegistrationSystem\\UserRegistrationSystemapp.csproj|solutionrelative:userregistrationsystem\\userregistrationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D29A50B-1DC9-4B67-8428-D4EEFA101DD9}|nunit1_test\\nunit1_test.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\nunit1_test\\n_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D29A50B-1DC9-4B67-8428-D4EEFA101DD9}|nunit1_test\\nunit1_test.csproj|solutionrelative:nunit1_test\\n_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6DEF58-7DFF-46D0-AD9F-5836D4599907}|xunit1_test\\xunit1_test.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\xunit1_test\\x_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6DEF58-7DFF-46D0-AD9F-5836D4599907}|xunit1_test\\xunit1_test.csproj|solutionrelative:xunit1_test\\x_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D29A50B-1DC9-4B67-8428-D4EEFA101DD9}|nunit1_test\\nunit1_test.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\nunit1_test\\nunit1_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D29A50B-1DC9-4B67-8428-D4EEFA101DD9}|nunit1_test\\nunit1_test.csproj|solutionrelative:nunit1_test\\nunit1_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6DEF58-7DFF-46D0-AD9F-5836D4599907}|xunit1_test\\xunit1_test.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\xunit1_test\\xunit1_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E6DEF58-7DFF-46D0-AD9F-5836D4599907}|xunit1_test\\xunit1_test.csproj|solutionrelative:xunit1_test\\xunit1_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619096A0-4B59-4439-A0B8-9E93904D294D}|xunit_test\\xunit_test.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\xunit_test\\xunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619096A0-4B59-4439-A0B8-9E93904D294D}|xunit_test\\xunit_test.csproj|solutionrelative:xunit_test\\xunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEFA574-A016-48AE-83FB-40A4B0AAADAE}|nunit_test\\nunit_test.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\nunit_test\\nunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEFA574-A016-48AE-83FB-40A4B0AAADAE}|nunit_test\\nunit_test.csproj|solutionrelative:nunit_test\\nunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D425422E-DD1F-44B5-8169-F7343C9DA9CC}|x\u0026nunit\\Calcu.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\x\u0026nunit\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D425422E-DD1F-44B5-8169-F7343C9DA9CC}|x\u0026nunit\\Calcu.csproj|solutionrelative:x\u0026nunit\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEFA574-A016-48AE-83FB-40A4B0AAADAE}|nunit_test\\nunit_test.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\nunit_test\\nunit_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AEFA574-A016-48AE-83FB-40A4B0AAADAE}|nunit_test\\nunit_test.csproj|solutionrelative:nunit_test\\nunit_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619096A0-4B59-4439-A0B8-9E93904D294D}|xunit_test\\xunit_test.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\x\u0026nunit\\xunit_test\\xunit_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{619096A0-4B59-4439-A0B8-9E93904D294D}|xunit_test\\xunit_test.csproj|solutionrelative:xunit_test\\xunit_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nunit2_test",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\nunit2_test\\nunit2_test.csproj",
+              "RelativeDocumentMoniker": "nunit2_test\\nunit2_test.csproj",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\nunit2_test\\nunit2_test.csproj",
+              "RelativeToolTip": "nunit2_test\\nunit2_test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T05:24:44.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "n_unit.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\nunit2_test\\n_unit.cs",
+              "RelativeDocumentMoniker": "nunit2_test\\n_unit.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\nunit2_test\\n_unit.cs",
+              "RelativeToolTip": "nunit2_test\\n_unit.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:24:23.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "xunit2_test",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\Xunit\\xunit2_test.csproj",
+              "RelativeDocumentMoniker": "Xunit\\xunit2_test.csproj",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\Xunit\\xunit2_test.csproj",
+              "RelativeToolTip": "Xunit\\xunit2_test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T05:23:37.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "x_unit.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\Xunit\\x_unit.cs",
+              "RelativeDocumentMoniker": "Xunit\\x_unit.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\Xunit\\x_unit.cs",
+              "RelativeToolTip": "Xunit\\x_unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:21:31.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\ShoppingCartapp\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ShoppingCartapp\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\ShoppingCartapp\\ShoppingCart.cs",
+              "RelativeToolTip": "ShoppingCartapp\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:07:38.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "nunit1_test",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\nunit1_test\\nunit1_test.csproj",
+              "RelativeDocumentMoniker": "nunit1_test\\nunit1_test.csproj",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\nunit1_test\\nunit1_test.csproj",
+              "RelativeToolTip": "nunit1_test\\nunit1_test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T05:02:41.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "xunit1_test",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\xunit1_test\\xunit1_test.csproj",
+              "RelativeDocumentMoniker": "xunit1_test\\xunit1_test.csproj",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\xunit1_test\\xunit1_test.csproj",
+              "RelativeToolTip": "xunit1_test\\xunit1_test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T05:01:39.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "n_unit.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\nunit1_test\\n_unit.cs",
+              "RelativeDocumentMoniker": "nunit1_test\\n_unit.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\nunit1_test\\n_unit.cs",
+              "RelativeToolTip": "nunit1_test\\n_unit.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:00:23.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "x_unit.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\xunit1_test\\x_unit.cs",
+              "RelativeDocumentMoniker": "xunit1_test\\x_unit.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\xunit1_test\\x_unit.cs",
+              "RelativeToolTip": "xunit1_test\\x_unit.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:59:52.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegistrationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\UserRegistrationSystem\\UserRegistrationSystem.cs",
+              "RelativeDocumentMoniker": "UserRegistrationSystem\\UserRegistrationSystem.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\UserRegistrationSystem\\UserRegistrationSystem.cs",
+              "RelativeToolTip": "UserRegistrationSystem\\UserRegistrationSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:57:22.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "nunit_test.csproj",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\nunit_test\\nunit_test.csproj",
+              "RelativeDocumentMoniker": "nunit_test\\nunit_test.csproj",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\nunit_test\\nunit_test.csproj",
+              "RelativeToolTip": "nunit_test\\nunit_test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T10:20:36.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "nunit.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\nunit_test\\nunit.cs",
+              "RelativeDocumentMoniker": "nunit_test\\nunit.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\nunit_test\\nunit.cs",
+              "RelativeToolTip": "nunit_test\\nunit.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:19:58.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "xunit_test.csproj",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\xunit_test\\xunit_test.csproj",
+              "RelativeDocumentMoniker": "xunit_test\\xunit_test.csproj",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\xunit_test\\xunit_test.csproj",
+              "RelativeToolTip": "xunit_test\\xunit_test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T10:17:39.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "xunit.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\xunit_test\\xunit.cs",
+              "RelativeDocumentMoniker": "xunit_test\\xunit.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\xunit_test\\xunit.cs",
+              "RelativeToolTip": "xunit_test\\xunit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:16:42.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\x\u0026nunit\\Calculator.cs",
+              "RelativeDocumentMoniker": "x\u0026nunit\\Calculator.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\x\u0026nunit\\x\u0026nunit\\Calculator.cs",
+              "RelativeToolTip": "x\u0026nunit\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:13:02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

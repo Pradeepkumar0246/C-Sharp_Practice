@@ -1,0 +1,10 @@
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\mywindowsapp\mywindowsapp\obj\Debug\mywindowsapp.csproj.AssemblyReference.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\mywindowsapp\mywindowsapp\obj\Debug\mywindowsapp.Form1.resources
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\mywindowsapp\mywindowsapp\obj\Debug\mywindowsapp.Properties.Resources.resources
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\mywindowsapp\mywindowsapp\obj\Debug\mywindowsapp.csproj.GenerateResource.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\mywindowsapp\mywindowsapp\obj\Debug\mywindowsapp.csproj.CoreCompileInputs.cache
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\mywindowsapp\mywindowsapp\bin\Debug\mywindowsapp.exe.config
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\mywindowsapp\mywindowsapp\bin\Debug\mywindowsapp.exe
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\mywindowsapp\mywindowsapp\bin\Debug\mywindowsapp.pdb
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\mywindowsapp\mywindowsapp\obj\Debug\mywindowsapp.exe
+C:\Users\pradeep.DESKTOP-BE5N6B8\Source\Repos\mywindowsapp\mywindowsapp\obj\Debug\mywindowsapp.pdb
