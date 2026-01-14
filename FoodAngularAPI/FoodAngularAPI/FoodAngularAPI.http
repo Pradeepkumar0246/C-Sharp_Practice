@@ -1,0 +1,6 @@
+@FoodAngularAPI_HostAddress = http://localhost:5038
+
+GET {{FoodAngularAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

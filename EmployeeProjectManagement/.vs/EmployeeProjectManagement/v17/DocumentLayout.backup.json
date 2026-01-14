@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Migrations\\20250902101203_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeProjectManagement\\Migrations\\20250902101203_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Migrations\\20250902095716_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeProjectManagement\\Migrations\\20250902095716_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\employeeprojectmanagement\\employeeprojectmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73AFFB98-3086-46A2-BA9B-C7A8C2632F3E}|EmployeeProjectManagement\\EmployeeProjectManagement.csproj|solutionrelative:employeeprojectmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:34:20.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:15:08.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:14:39.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:27:21.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Models\\Project.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:15:26.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Service\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Service\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Service\\DepartmentService.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Service\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:27:08.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:27:28.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Service\\ProjectService.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Service\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Service\\ProjectService.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Service\\ProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:27:47.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:59:16.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:41:27.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T11:01:40.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:20:46.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:20:15.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Interfaces\\IProjectService.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Interfaces\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Interfaces\\IProjectService.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Interfaces\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:21:44.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250902101203_init.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Migrations\\20250902101203_init.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Migrations\\20250902101203_init.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Migrations\\20250902101203_init.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Migrations\\20250902101203_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:12:04.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250902095716_init.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Migrations\\20250902095716_init.cs",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\Migrations\\20250902095716_init.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\Migrations\\20250902095716_init.cs",
+              "RelativeToolTip": "EmployeeProjectManagement\\Migrations\\20250902095716_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:57:16.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeProjectManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\EmployeeProjectManagement\\EmployeeProjectManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeProjectManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T09:32:05.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

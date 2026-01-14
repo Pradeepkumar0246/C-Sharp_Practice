@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\service\\hospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\service\\hospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\dtos\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\dtos\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\repository\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\repository\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\repository\\hospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\repository\\hospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\interface\\ihospitalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\interface\\ihospitalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\interface\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\interface\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|c:\\users\\pradeep.desktop-be5n6b8\\source\\repos\\doctorpatientapi\\apirepositorypattern\\migrations\\20250820180141_hospitalupd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB4CC7-0A29-4543-B88F-AC91C4480FEC}|APIRepositoryPattern\\APIRepositoryPattern.csproj|solutionrelative:apirepositorypattern\\migrations\\20250820180141_hospitalupd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Models\\Doctor.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:59:28.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Repository\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Repository\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Repository\\DoctorRepository.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Repository\\DoctorRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:57:37.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:34:57.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Service\\DoctorService.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Service\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Service\\DoctorService.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Service\\DoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:00:15.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Service\\HospitalService.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Service\\HospitalService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Service\\HospitalService.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Service\\HospitalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:00:29.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Program.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:01:31.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalsController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Controllers\\HospitalsController.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Controllers\\HospitalsController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Controllers\\HospitalsController.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Controllers\\HospitalsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T06:32:47.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwD4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:32:15.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorDto.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\DTOs\\DoctorDto.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\DTOs\\DoctorDto.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\DTOs\\DoctorDto.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\DTOs\\DoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:55:49.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Service\\TokenService.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Service\\TokenService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:00:59.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:33:20.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:56:12.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:59:01.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Repository\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Repository\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Repository\\PatientRepository.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Repository\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:58:41.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HospitalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Repository\\HospitalRepository.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Repository\\HospitalRepository.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Repository\\HospitalRepository.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Repository\\HospitalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:58:03.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Data\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Data\\HospitalContext.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Data\\HospitalContext.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Data\\HospitalContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:51:37.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Models\\Hospital.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Models\\Hospital.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Models\\Hospital.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Models\\Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:59:36.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\appsettings.json",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\appsettings.json",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\appsettings.json",
+              "RelativeToolTip": "APIRepositoryPattern\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T17:24:43.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Models\\Patient.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:59:44.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Models\\Role.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:59:53.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Models\\User.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Models\\User.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:00:01.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IHospitalAPI.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Interface\\IHospitalAPI.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Interface\\IHospitalAPI.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Interface\\IHospitalAPI.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Interface\\IHospitalAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:56:44.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IToken.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Interface\\IToken.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Interface\\IToken.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Interface\\IToken.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Interface\\IToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:57:11.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Service\\PatientService.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Service\\PatientService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Service\\PatientService.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Service\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:00:44.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Service\\UserService.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Service\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:01:13.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersDto.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\DTOs\\UsersDto.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\DTOs\\UsersDto.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\DTOs\\UsersDto.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\DTOs\\UsersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:56:24.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250820180141_Hospitalupd.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Migrations\\20250820180141_Hospitalupd.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Migrations\\20250820180141_Hospitalupd.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Migrations\\20250820180141_Hospitalupd.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Migrations\\20250820180141_Hospitalupd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:01:42.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "APIRepositoryPattern\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\pradeep.DESKTOP-BE5N6B8\\Source\\Repos\\DoctorPatientAPI\\APIRepositoryPattern\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "APIRepositoryPattern\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:36:18.822Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
